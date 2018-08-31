@@ -2,4 +2,5 @@
 Arquivos do Projeto do Logotipo do CAPSI IFPA Castanhal
 ## Créditos:
 > André Henrique
+
 > Dário
